@@ -1,0 +1,18 @@
+{
+  "name": "gameon",
+  "version": "0.1.0",
+  "description": "Node.js wrapper for GameOn API",
+  "main": "gameon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Joy",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "botbuilder": "^3.12.0",
+    "request": "^2.83.0",
+    "restify": "^6.3.2",
+    "uuid": "^3.1.0"
+  }
+}
